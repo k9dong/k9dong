@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/k9_git_banner.png" />
   <h1>🔥 WELCOME TO K9'S GIT REPOSITORY 🔥</h1>
   <h3>💪 Code Like a Warrior | Build Like a Machine 💪</h3>
 </div>
