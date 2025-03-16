@@ -8,22 +8,19 @@
 
 ### 🚀 About Me
 🛠 **Backend Developer** | ☁ **Cloud Enthusiast** | 💻 **Full-Stack Explorer**  
-🔗 **Specialized in**: Spring Boot, MySQL, React, AWS, CI/CD  
+🔗 **Specialized in**: Spring Boot, MySQL, React, AWS, CI/CD  , Maria DB
 💣 **Mission**: Build Scalable, Secure, and Kick-ass Applications  
 
 ---
 
 ### 🏆 My Arsenal
-🚀 **Languages**: Kotlin, Java, JavaScript, SQL  
-⚡ **Frameworks**: Spring Boot, React, Node.js  
+🚀 **Languages**: Kotlin, Java, JavaScript, SQL , Python 3
+⚡ **Frameworks**: Spring Boot, React, Node.js  , Flask
 🔗 **DevOps & Tools**: Docker, AWS, GitHub Actions, Nginx  
 
 ---
 
-### 🔥 Featured Repositories
-🔹 [**🚀 K9's Secret Project**](https://github.com/your-repo)  
-🔹 [**💀 Ultimate Backend System**](https://github.com/your-repo)  
-🔹 [**⚡ Full-Stack Warrior App**](https://github.com/your-repo)  
+
 
 ---
 
